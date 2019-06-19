@@ -1,0 +1,26 @@
+{
+    "Snippet": {
+        "prefix": "header",
+        "body": [
+            "//   ",
+            "//   * This file is a part of RGB-Arduino-Controller",
+            "//   * ${1:filename} created by Joe Diragi on $CURRENT_MONTH/$CURRENT_DATE/$CURRENT_YEAR",
+            "//   * Copyright © $CURRENT_YEAR TheNightmanCodeth. All rights reserved.",
+            "//   ",
+            "//   RGB-Arduino-Controller is free software: you can redistribute it and/or modify",
+            "//   it under the terms of the GNU General Public License as published by",
+            "//   the Free Software Foundation, either version 3 of the License, or",
+            "//   (at your option) any later version.",
+            "//   ",
+            "//   RGB-Arduino-Controller is distributed in the hope that it will be useful,",
+            "//   but WITHOUT ANY WARRANTY; without even the implied warranty of",
+            "//   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the",
+            "//   GNU General Public License for more details.",
+            "//   ",
+            "//   You should have received a copy of the GNU General Public License",
+            "//   along with RGB-Arduino-Controller. If not, see <https://www.gnu.org/licenses/>.",
+            "//   ",
+        ],
+        "description": "License header for RGB-Arduino-Controller"
+    }
+}
